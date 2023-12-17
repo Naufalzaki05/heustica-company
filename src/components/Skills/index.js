@@ -149,7 +149,7 @@ const Skills = () => {
   return (
     <Container id="skills">
       <Wrapper>
-        <Title>Kemampuan Heustica</Title>
+        <Title>Keahlian Heustica</Title>
         <Desc>Ini adalah beberapa keahlian yang telah kami kembangkan dalam dua tahun terakhir.</Desc>
         <SkillsContainer>
           {heusticaSkills.map((skill) => (

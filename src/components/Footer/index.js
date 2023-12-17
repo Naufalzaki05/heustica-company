@@ -93,7 +93,7 @@ function Footer() {
           <NavLink href="#about">Tentang</NavLink>
           <NavLink href="#skills">Keahlian</NavLink>
           <NavLink href="#experience">Pengalaman</NavLink>
-          <NavLink href="#product">Product</NavLink>
+          <NavLink href="#products">Product</NavLink>
           <NavLink href="#testimonials">Testimonial</NavLink>
         </Nav>
         <SocialMediaIcons>
